@@ -1,0 +1,17 @@
+C:\Users\f\source\repos\Keanan's Modern Task Tracker\bin\Debug\Keanan's Modern Task Tracker.exe.config
+C:\Users\f\source\repos\Keanan's Modern Task Tracker\bin\Debug\Keanan's Modern Task Tracker.exe
+C:\Users\f\source\repos\Keanan's Modern Task Tracker\bin\Debug\Keanan's Modern Task Tracker.pdb
+C:\Users\f\source\repos\Keanan's Modern Task Tracker\obj\Debug\Keanan's Modern Task Tracker.csproj.AssemblyReference.cache
+C:\Users\f\source\repos\Keanan's Modern Task Tracker\obj\Debug\Keanan_s_Modern_Task_Tracker.Form1.resources
+C:\Users\f\source\repos\Keanan's Modern Task Tracker\obj\Debug\Keanan_s_Modern_Task_Tracker.Properties.Resources.resources
+C:\Users\f\source\repos\Keanan's Modern Task Tracker\obj\Debug\Keanan's Modern Task Tracker.csproj.GenerateResource.cache
+C:\Users\f\source\repos\Keanan's Modern Task Tracker\obj\Debug\Keanan's Modern Task Tracker.csproj.CoreCompileInputs.cache
+C:\Users\f\source\repos\Keanan's Modern Task Tracker\obj\Debug\Keanan's Modern Task Tracker.exe
+C:\Users\f\source\repos\Keanan's Modern Task Tracker\obj\Debug\Keanan's Modern Task Tracker.pdb
+C:\Users\f\source\repos\Keanan's Modern Task Tracker\bin\Debug\AltoControls.dll
+C:\Users\f\source\repos\Keanan's Modern Task Tracker\obj\Debug\Keanan's.9EB27298.Up2Date
+C:\Users\f\source\repos\Keanan's Modern Task Tracker\bin\Debug\Database1.mdf
+C:\Users\f\source\repos\Keanan's Modern Task Tracker\bin\Debug\Database1_log.ldf
+C:\Users\f\source\repos\Keanan's Modern Task Tracker\obj\Debug\Keanan_s_Modern_Task_Tracker.Form2.resources
+C:\Users\f\source\repos\Keanan's Modern Task Tracker\obj\Debug\Keanan_s_Modern_Task_Tracker.Form3.resources
+C:\Users\f\source\repos\Keanan's Modern Task Tracker\obj\Debug\Keanan_s_Modern_Task_Tracker.Form4.resources

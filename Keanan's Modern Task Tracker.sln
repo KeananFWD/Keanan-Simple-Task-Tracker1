@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keanan's Modern Task Tracker", "Keanan's Modern Task Tracker.csproj", "{0CF235E2-33B6-4CC5-B60E-DF2045714731}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CF235E2-33B6-4CC5-B60E-DF2045714731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF235E2-33B6-4CC5-B60E-DF2045714731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF235E2-33B6-4CC5-B60E-DF2045714731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF235E2-33B6-4CC5-B60E-DF2045714731}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CCF7E56-C1FA-448D-B63F-846289DF2313}
+	EndGlobalSection
+EndGlobal
